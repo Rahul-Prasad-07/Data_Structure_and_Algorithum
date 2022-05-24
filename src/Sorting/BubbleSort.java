@@ -20,6 +20,7 @@ public class BubbleSort {
         array[i] = array[j];
         array[j] = temp;
     }
+    
 
     public static void main(String args[]) {
         int[] randomNumbers = {13, 3242, 23, 2351, 352, 3915, 123, 32, 1, 5, 0};
