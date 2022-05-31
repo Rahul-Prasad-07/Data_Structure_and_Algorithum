@@ -24,7 +24,7 @@ public class ReverseString {
         Stack<Character> stack = new Stack<Character>();
 
         //push every chr to given string into stack
-        char[] ch = data.toCharArray();
+        char[] ch = data.toCharArray(); //toCharArray --> used to convert a string into a char array
         for (int i=0; i<data.length(); i++){
             stack.push(ch[i]);
         }
