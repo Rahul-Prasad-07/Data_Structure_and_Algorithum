@@ -18,11 +18,11 @@ public class ParenthesisStack {
 
     public static void main(String[] args) {
         try {
-            System.out.println(match("()"));
-            System.out.println(match("((((((()))))))"));
-            System.out.println(match("(((((()))))))"));
-            System.out.println(match("(((((()))))))"));
-            System.out.println(match("(((()(((()))))))"));
+            //System.out.println(match("()"));
+           // System.out.println(match("((((((()))))))"));
+            //System.out.println(match("(((((()))))))"));
+            //System.out.println(match("(((((()))))))"));
+            System.out.println(match("((())))"));
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
