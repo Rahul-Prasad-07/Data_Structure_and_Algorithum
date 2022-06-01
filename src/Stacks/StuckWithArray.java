@@ -1,4 +1,4 @@
-package Stacks_Queues;
+package Stacks;
 
 public class StuckWithArray {
 

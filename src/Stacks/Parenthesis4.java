@@ -1,4 +1,4 @@
-package Stacks_Queues;
+package Stacks;
 
 import java.util.EmptyStackException;
 import java.util.Stack;
@@ -17,7 +17,7 @@ public class Parenthesis4 {
         try {
 
             System.out.println(match("{[(}"));
-            System.out.println(match("[{{{{{{{}}}}}}}]"));
+            System.out.println(match("(()((()(()))(()()"));
 
         }
         catch(Exception e) {
