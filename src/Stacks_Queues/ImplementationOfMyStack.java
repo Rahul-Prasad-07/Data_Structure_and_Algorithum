@@ -39,7 +39,7 @@ public class ImplementationOfMyStack<T> {
     public Boolean isEmpty(){
         return this.list.size()==0;
     }
-
-
-
 }
+
+
+
