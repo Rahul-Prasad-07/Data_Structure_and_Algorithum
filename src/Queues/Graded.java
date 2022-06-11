@@ -14,6 +14,7 @@ public class Graded {
         sort(queue);
         System.out.println(queue);
     }
+
     static void sort(Queue<Integer> queue) {
         // Write your code here
         if (queue.isEmpty()){
