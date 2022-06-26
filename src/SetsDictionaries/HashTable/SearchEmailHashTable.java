@@ -1,4 +1,4 @@
-package SetsDictionaries;
+package SetsDictionaries.HashTable;
 
 import java.util.Hashtable;
 import java.util.Set;

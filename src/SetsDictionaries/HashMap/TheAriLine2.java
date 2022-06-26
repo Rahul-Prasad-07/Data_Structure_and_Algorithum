@@ -1,4 +1,4 @@
-package SetsDictionaries;
+package SetsDictionaries.HashMap;
 
 import java.util.Hashtable;
 import java.util.Scanner;
@@ -13,7 +13,9 @@ public class TheAriLine2 {
             int arr[]=new int[size];
             for (int i = 0; i < size; i++) {
                 arr[i] = scanner.nextInt();
+
             }
+
 
             for(int i:arr)
             {

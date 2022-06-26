@@ -1,4 +1,4 @@
-package SetsDictionaries;
+package SetsDictionaries.HashMap;
 
 import java.util.*;
 
